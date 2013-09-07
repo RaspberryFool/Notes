@@ -1,4 +1,4 @@
 Notes
 =====
 
-Public repository for 
+Public repository for notes on Raspberry Fool projects
