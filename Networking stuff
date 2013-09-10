@@ -1,0 +1,3 @@
+PiBots etc need to be controllable over WiFi.
+
+The idea here is to have a simple network setup that allows a user to SSH and/or VNC in
